@@ -27,7 +27,7 @@ def times_iterator(number_of_times)
     puts = "Welcome to Flatiron School's Web Development Course!"
   end
 end
-  
+end  
 
 
 def while_iterator(number_of_times)
